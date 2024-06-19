@@ -1,3 +1,8 @@
+#  Hecho por: 
+# Hector Alejandro Ortega Gacria
+# Registro: 21310248.
+# Grupo: 6E
+#-----------------------------------------------------------
 import gymnasium as gym
 import numpy as np
 import matplotlib.pyplot as plt
